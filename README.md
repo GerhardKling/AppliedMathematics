@@ -16,7 +16,7 @@ This video introduces the use of Python to tackle mathematical problems. We expl
 This video introduces logarithm functions. Log functions appear in many areas of Data Science, including the transformation of variables that exhibit large positive outliers or maximum likelihood estimation. Log functions have several useful properties. The ln function is often used to simplify maximization problems (e.g., maximum likelihood). Why does it work?
 ## [YouTube Video 3](https://youtu.be/Qc3zMWZRRfc) 
 
-** Chapters **
+**Chapters**
 - 0:00 Log Properties
 - 2:02 Plotting in Python
 - 4:43 Log Transformations
